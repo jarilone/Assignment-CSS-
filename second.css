@@ -40,6 +40,7 @@ body {
 .bottom-row {
     display: flex;
     justify-content: center;
+    align-items: center;
     margin-top: auto;
     margin-bottom: 3rem;
     max-width: 808px;
