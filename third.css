@@ -1,0 +1,47 @@
+html {
+    background-color: #dcddff;
+}
+
+body {
+    background-color: #B4B6D9;
+    padding: 4%;
+}
+
+.new {
+    display: inline-block;
+    top: -40px;
+    left: 50%;
+    transform: translate3d(-9px, 30px, 0);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+b {
+    background-color: #F2E1AE;
+    padding: 7px;
+    border-radius: 0px 10px 10px 0px;
+    
+}
+
+.inner-square {
+    margin: auto;
+    width: 360px;
+}
+
+.border-white {
+    background-color: #ffffff;
+    border-radius: 20px;
+    margin: auto;
+    width: 360px;
+}
+
+.text {
+    padding: 10px;
+}
+
+img {
+    border-radius: 10px 10px 0px 0px;
+}
+
+.novus {
+    font-size: 28px;
+}
